@@ -33,7 +33,6 @@ namespace ClassMetotDemo
             Console.WriteLine("----MÜŞTERİLER SİLİNİYOR---- \n");
             musterimanager.musteriSil(musteri1);
             musterimanager.musteriSil(musteri2);
-
         }
     }
 }
