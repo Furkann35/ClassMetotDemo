@@ -14,6 +14,5 @@ namespace ClassMetotDemo
         public string musteriAdres { get; set; }
 
         public int musteriYas { get; set; }
-
     }
 }
