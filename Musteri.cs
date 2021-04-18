@@ -6,6 +6,7 @@ namespace ClassMetotDemo
 {
     class Musteri
     {
+
         public int musteriId { get; set; }
         public string musteriAd { get; set; }
 
@@ -15,5 +16,6 @@ namespace ClassMetotDemo
 
         public int musteriYas { get; set; }
         
+
     }
 }
